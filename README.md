@@ -10,18 +10,32 @@
 - **English language C1 profeciency** : TPU C1 certificate and other achievements [Google drive link](https://drive.google.com/drive/folders/1VbmPDEYd1z_c8HVMSIYhfVlpg1J-7qS7?usp=sharing])
 
 ## Projects
-   Title | Description | Links |
- |-------|------------|-------|
- | **Print No More** | 2D Top-Down Action game where players type spell names to cast them. | [Itch.io](https://ssssaber.itch.io/print-no-more) |
- | **Starcraft Card Game** | Card game inspired by Hearthstone, featuring GOAP AI, event-driven gameplay, and MySQL card database. | [GitHub](https://github.com/Ssssssaber/Starcraft-Card-Game), [Itch.io](https://ssssaber.itch.io/starcraft-card-game-test) |
- | **RedditGraphs3D** | 3D dataset visualizer with modular UI for dynamic color and parameter adjustments. | [GitHub](https://github.com/Ssssssaber/RedditGraphs3D) |
- | **Alas Game Engine** | Cross-platform 2D game engine with OpenGL rendering, ECS (entt), Lua scripting, and Chipmunk physics. | [GitHub](https://github.com/Ssssssaber/Alas-game-engine) |
-
-## The first Alas Game Engine game
-
+### Alas Game Engine
+Cross-platform 2D game engine with OpenGL rendering, ECS (entt), Lua scripting, and Chipmunk physics. | [GitHub](https://github.com/Ssssssaber/Alas-game-engine) |
+![alas](media/alas.png)
+#### The first Alas Game Engine game
 Race against luck in Pomelo harvest! Grab only the ripe pomelos for points, but watch out: half are still green! Created with a purpose of testing your 50/50 luck. Available when loading main.yaml scene after installing [Alas Game Engine release](https://github.com/Ssssssaber/Alas-game-engine/releases/tag/v0.1.0-alpha).
 
-![Starcraft Card Game GOAP AI](media/ags_game.gif)
+![Yarick](media/ags_game.gif)
+
+### Print No More
+2D Top-Down Action game where players type spell names to cast them. | [Itch.io](https://ssssaber.itch.io/print-no-more) |
+
+Arcana Spell           |  Sheild Spell
+:-------------------------:|:-------------------------:
+![Arcana](media/arcana.gif)  |  ![Shield](media/shield.gif)
+
+### Starcraft Card Game
+Card game inspired by Hearthstone, featuring GOAP AI, event-driven gameplay, and MySQL card database. |
+[GitHub](https://github.com/Ssssssaber/Starcraft-Card-Game), [Itch.io](https://ssssaber.itch.io/starcraft-card-game-test) |
+![sc](media/sc-game.png)
+
+### RedditGraphs3D** 
+3D dataset visualizer with modular UI for dynamic color and parameter adjustments. | [GitHub](https://github.com/Ssssssaber/RedditGraphs3D) |
+![reddit](media/reddit.png)
+### Froge de bagel war** 
+Simple 2.5D RTS prototype about frogs and bagels. | [Itch.io](https://ssssaber.itch.io/froge-de-bagel-war) |
+![froge](media/selection.gif)
 
 ## Contact
 - Email: [bladimir.lobanov@gmail.com]

@@ -7,7 +7,7 @@
 - **AI Behavior**: Modular AI setup using State machine/GOAP ([Starcraft-Card-Game](https://github.com/Ssssssaber/Starcraft-Card-Game)).
 - **Data Management**: MySQL and ScriptableObjects for in-game cards data storage ([Starcraft-Card-Game](https://github.com/Ssssssaber/Starcraft-Card-Game)).
 - **Multiplayer**: Prototypes using Photon and Mirror.
-- **English language C1 profeciency** : TPU C1 certificate and other achievements [Google drive link](https://drive.google.com/drive/folders/1VbmPDEYd1z_c8HVMSIYhfVlpg1J-7qS7?usp=sharing])
+- **English language C1 proficiency** : TPU C1 certificate and other achievements [Google drive link](https://drive.google.com/drive/folders/1VbmPDEYd1z_c8HVMSIYhfVlpg1J-7qS7?usp=sharing])
 
 ## Projects
 ### Alas Game Engine
@@ -16,7 +16,6 @@ Cross-platform 2D game engine with OpenGL rendering, ECS (entt), Lua scripting, 
 #### The first Alas Game Engine game
 Race against luck in Pomelo harvest! Grab only the ripe pomelos for points, but watch out: half are still green! Created with a purpose of testing your 50/50 luck. Available when loading main.yaml scene after installing [Alas Game Engine release](https://github.com/Ssssssaber/Alas-game-engine/releases/tag/v0.1.0-alpha).
 
-![Yarick](media/ags_game.gif)
 
 ### Print No More
 2D Top-Down Action game where players type spell names to cast them. | [Itch.io](https://ssssaber.itch.io/print-no-more) |
